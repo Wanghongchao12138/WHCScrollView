@@ -3,15 +3,22 @@
 
 ![image](https://github.com/Wanghongchao12138/CustomerCollectionView/blob/master/6pssss.gif)   
  
+ 
+ 
  /*
       UIScrollView的协议方法 根据这个判断当前Scrollview的滑动大小 选择当前事件
 */
+
 -(void)scrollViewDidScroll:(UIScrollView *)scrollView
+
+
 
 /*
     按钮和ScrollView的协议响应的事件
 */
 -(void)scrollToPointFrame:(NSInteger)tag
+
+
 
 
 /*
