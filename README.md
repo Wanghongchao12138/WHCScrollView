@@ -1,7 +1,7 @@
 # WHCScrollView
 简单的标签控制器根据视图滑动的返回确定按钮，根据按钮确定显示的视图
 
-![image](https://github.com/Wanghongchao12138/CustomerCollectionView/blob/master/6pssss.gif)   
+![image](https://github.com/Wanghongchao12138/WHCScrollView/blob/master/ScrollView.gif)   
  
  
  
